@@ -1,4 +1,4 @@
-# 📞 Sistema de Registro de Chamados - MongoDB
+# Sistema de Registro de Chamados - MongoDB
 
 Projeto simples utilizando MongoDB para registrar atendimentos de suporte técnico.
 
